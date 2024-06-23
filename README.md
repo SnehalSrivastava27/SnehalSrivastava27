@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Snehal Srivastava</h1>
 <h3 align="center">A passionate developer from India currently trying AI,MERN and other stuff</h3>
-
+<img align ="right" alt="coding" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-cartoon-character-working-on-a-computer-vector-png-image_6811038.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalsrivastava27&label=Profile%20views&color=0e75b6&style=flat" alt="snehalsrivastava27" /> </p>
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 💬 Ask me about **Python,JavaScript,Java,C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/snehal-srivastava-73974022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/snehal-srivastava-73974022b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
