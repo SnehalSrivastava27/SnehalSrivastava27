@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Python,JavaScript,Java,C++**
+- 💬 Ask me about **JavaScript,Java,C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
