@@ -3,7 +3,7 @@
 <img align ="right" alt="coding" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-cartoon-character-working-on-a-computer-vector-png-image_6811038.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehalsrivastava27&label=Profile%20views&color=0e75b6&style=flat" alt="snehalsrivastava27" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- Let's deep dive into **Engineering**
 
 - 💬 Ask me about **JavaScript,Java,C++**
 
